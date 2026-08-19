@@ -1,0 +1,6 @@
+{
+  "name": "Gtechniq",
+  "description": "Bilingual (Arabic/English) Gtechniq-accredited luxury auto care website featuring ceramic coating, PPF, paint correction, live working hours, and certified warranty system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
